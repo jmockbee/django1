@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"response"
+			],
+			[
+				"argu",
+				"argument1"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"t",
+				"txt"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"n",
+				"second-number"
+			],
+			[
+				"get",
+				"getRandomInt"
+			],
+			[
+				"I",
+				"i"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"le",
+				"letter"
+			],
+			[
+				"answer",
+				"answerArray"
+			],
+			[
+				"rando",
+				"randomWordArr"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"maR",
+				"margin"
+			],
+			[
+				"gr",
+				"greeting"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Ti",
+				"twitter"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"cr",
+				"createElement"
+			],
+			[
+				"image",
+				"imageDiv"
+			],
+			[
+				"ima",
+				"imageDiv"
+			],
+			[
+				"cea",
+				"createElement"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"v",
+				"var"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"beautify",
+				"HTMLBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"SublimeLinter: Create Linter Plugin"
+			],
+			[
+				"install",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 607.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Jon/dev/trydjango/src/products/admin.py",
+		"/C/Users/Jon/dev/trydjango/src/products/models.py",
+		"/C/Users/Jon/dev/trydjango/src/trydjango/settings.py",
+		"/C/Users/Jon/Documents/AWS/AWSCLI64 (1).msi",
+		"/C/Users/Jon/Desktop/awscli-bundle/install",
+		"/C/Program Files/MySQL/MySQL Server 5.7/bin/mysqld_multi.pl",
+		"/C/Users/Jon/Documents/10-09-2017-Cleveland-Class-Repository-FSF-52adac4c2990bf0b68ae8eef1daa4ce0ba51f216-52adac4c2990bf0b68ae8eef1daa4ce0ba51f216.tar.bz2",
+		"/C/Program Files/MySQL/MySQL Server 5.7/bin/mysql_config.pl",
+		"/C/Program Files/MySQL/MySQL Server 5.7/bin/mysql.exe",
+		"/C/Users/Jon/Documents/liri-node-app/liri.js",
+		"/C/Users/Jon/Documents/liri-node-app/random.txt",
+		"/C/Users/Jon/Documents/liri-node-app/.env",
+		"/C/Users/Jon/Documents/liri-node-app/keys.js",
+		"/C/Users/Jon/Documents/jan4jsadvanced/lesson1/catdog.js",
+		"/C/Users/Jon/Documents/jan4jsadvanced/lesson1/rpg.js",
+		"/C/Users/Jon/Documents/jan4jsadvanced/lesson1/tomagotchi.js",
+		"/C/Users/Jon/Documents/multerFilemeta/server.js",
+		"/C/Users/Jon/Documents/multerFilemeta/index.html",
+		"/C/Users/Jon/Documents/multerFilemeta/package.json",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/23-GeocodeNPM/Unsolved/package.json",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/23-GeocodeNPM/Unsolved/geocode.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/22-WeatherNPM/weather.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/21-RequestRefresher/omdbRequest.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/20-CommandSort/jtcs/CommandSortjt.js",
+		"/C/Users/Jon/Documents/banking/bank.js",
+		"/C/Users/Jon/Documents/banking/bank.txt",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/15-BankJS/Solved/bank.txt",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/15-BankJS/Solved/bank.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/18-OMDB_Request_Students/Solved/levelOneOmdbInteractive.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/17-OMDB_Request/omdbRequest.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/16-Request/1-MissingPackage/request.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/13-BestThingsEver/Unsolved/best_things_ever.txt",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/13-BestThingsEver/Solved/readBest.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/13-BestThingsEver/Solved/index.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/12-ReadFile/movies.txt",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/12-ReadFile/read.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/11-WriteFile/movies.txt",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-74f783b33ad7b41a8cd5b83543c4292810c036b4/01-Class-Content/10-nodejs/01-Activities/11-WriteFile/write.js",
+		"/C/Users/Jon/Documents/wickman/arguments.js",
+		"/C/Users/Jon/Documents/wickman/arguments",
+		"/C/Users/Jon/Documents/wickman/.js",
+		"/C/Users/Jon/Documents/react app/hello-world/src/App.js",
+		"/C/Users/Jon/Documents/react app/hello-world/src/App.css",
+		"/C/Users/Jon/Documents/react app/hello-world/public/index.html",
+		"/C/Users/Jon/Documents/today 1221/05-PackageJSON/05-PackageJSON/weatherdest.js",
+		"/C/Users/Jon/Documents/today 1221/geocode.js",
+		"/C/Users/Jon/Documents/today 1219/command.js",
+		"/C/Users/Jon/Documents/today 1219/read.js",
+		"/C/Users/Jon/Documents/today 1219/write.js",
+		"/C/Users/Jon/Documents/today 1219/bank.js",
+		"/C/Users/Jon/Documents/today 1219/bank.txt",
+		"/C/Users/Jon/Documents/today 1219/best_things_ever.txt",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/02-Sriracha/README.md",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/08-Modularization/run.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/08-Modularization/ess.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/08-Modularization/Bands.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/08-Modularization/runBands.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/03-Arguments/arguments.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/01-HelloNode/hello.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/06-Calculator/README.md",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/04-ArgumentsAddition/argumentsadd.js",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/07-Multiples/README.md",
+		"/C/Users/Jon/Documents/today/10-09-2017-Cleveland-Class-Repository-FSF-master-95f953fa775ad649ac3733d97d6f7f355cb7cb07/01-Class-Content/10-nodejs/01-Activities/05-ParameterCheck/README.md",
+		"/C/Users/Jon/Documents/gitbranch example/practice-git-/top.html",
+		"/C/Users/Jon/Documents/homework/traintime-/index.html",
+		"/C/Users/Jon/Documents/homework/traintime-/timesheetlogic.js",
+		"/C/Users/Jon/Google Drive/js-dissect.html",
+		"/C/Users/Jon/Google Drive/week 7/ExampleMoment.html",
+		"/C/Users/Jon/Documents/gitbranch example/practice-git-/index.html",
+		"/C/Users/Jon/Documents/gitbranch example/practice-git-/tree.html",
+		"/C/Users/Jon/Documents/gitbranch example/practice-git-/tree",
+		"/C/Users/Jon/Documents/gitbranch example/practice-git-/extra",
+		"/C/Users/Jon/Documents/projectoneanti/AntisocialJournal/summernote-example.html",
+		"/C/Users/Jon/Documents/projectoneanti/AntisocialJournal/index.html",
+		"/C/Users/Jon/Documents/projectoneanti/AntisocialJournal/assets/javascript/auth.js",
+		"/C/Users/Jon/Documents/projectoneanti/AntisocialJournal/assets/summernote.js",
+		"/C/Users/Jon/Documents/projectoneanti/AntisocialJournal/assets/css/style.css",
+		"/C/Users/Jon/Documents/projectoneanti/AntisocialJournal/assets/javascript/app.js",
+		"/C/Users/Jon/Documents/wysywig/summernote-master/src/js/outro.js",
+		"/C/Users/Jon/Documents/shortprojects/timesheet/timesheetlogic.js",
+		"/C/Users/Jon/Documents/shortprojects/timesheet/index.html",
+		"/C/Users/Jon/Documents/wysywig/summernote-master/src/js/app.js",
+		"/C/Users/Jon/Documents/wysywig/summernote-master/examples/jquery18lt.html",
+		"/C/Users/Jon/Documents/wysywig/summernote-master/examples/nativestyle.html",
+		"/C/Users/Jon/Documents/wysywig/summernote-master/examples/rtl.html",
+		"/C/Users/Jon/Documents/class practice/temporary torture/bootstrap1.html",
+		"/C/Users/Jon/Documents/class practice/temporary torture/datepicker.css",
+		"/C/Users/Jon/Documents/class practice/11212-student-do-signin-no-persistence-solution.html",
+		"/C/Users/Jon/Documents/homework/GiftasticRepo/index.html",
+		"/C/Users/Jon/Documents/homework/GiftasticRepo/assets/api.js",
+		"/C/Users/Jon/Documents/class practice/thursday 113017/time sheet/timesheet.js",
+		"/C/Users/Jon/Documents/class practice/thursday 113017/time sheet/index.html",
+		"/C/Users/Jon/Documents/class practice/thursday 113017/time sheet/instructor-do-clickbutton-fireconsole.html",
+		"/C/Users/Jon/Documents/class practice/thursday 113017/time practice/momentjs-activity.html",
+		"/C/Users/Jon/Documents/class practice/thursday 113017/timesheet.js",
+		"/C/Users/Jon/Documents/class practice/thursday 113017/instructor-do-clickbutton-fireconsole.html",
+		"/C/Users/Jon/Documents/homework/RPS-MultiplayerHW/assets/RPS.js",
+		"/C/Users/Jon/Desktop/Sublime Text 3.lnk",
+		"/C/Users/Jon/Documents/homework/RPS-MultiplayerHW/index.html",
+		"/C/Users/Jon/Documents/class practice/codersbayfolder/logic.js",
+		"/C/Users/Jon/Documents/class practice/instructor-do-clickbutton-nocomments.html",
+		"/C/Users/Jon/Documents/class practice/firebase2/recentuser.html",
+		"/C/Users/Jon/Documents/class practice/firebase1/logic.js",
+		"/C/Users/Jon/Documents/class practice/firebase1/student-do-downbutton.html",
+		"/C/Users/Jon/Documents/class practice/instructor-do-clickbutton-fireconsole.html",
+		"/C/Users/Jon/Documents/class practice/dynamic elements.html",
+		"/C/Users/Jon/Documents/class practice/button triggered ajax solution",
+		"/C/Users/Jon/Documents/class practice/majical cat button 2.html",
+		"/C/Users/Jon/Documents/class practice/single ajax",
+		"/C/Users/Jon/Documents/homework/homework Giftastic/index.html",
+		"/C/Users/Jon/Documents/homework/week 7 homework Giftastic/index.html",
+		"/C/Users/Jon/Documents/homework/week 7 homework Giftastic/assets/api.js",
+		"/C/Users/Jon/Documents/homework/week 7 homework Giftastic/wtfv.html",
+		"/C/Users/Jon/Documents/class practice/week 6/student do sign in session storage.html",
+		"/C/Users/Jon/Documents/class practice/week 6/todo persisted local storage.html",
+		"/C/Users/Jon/Documents/class practice/week 6/8-student-do-todolist-localstorage-solution.html",
+		"/C/Users/Jon/Documents/class practice/week 6/3-instructor-do-localstorage.html",
+		"/C/Users/Jon/Documents/class practice/week 6/2-student-do-signin-no-persistence.html",
+		"/C/Users/Jon/Documents/class practice/week 6/1-student-do-todolist.html",
+		"/C/Users/Jon/Documents/class practice/4-student-do-signin-localstorage-solution.html",
+		"/C/Users/Jon/Desktop/cwru/111117 saturday/scotch.css",
+		"/C/Users/Jon/Desktop/cwru/111117 saturday/scotch.html",
+		"/C/Users/Jon/Desktop/cwru/11917 thursday/folder stopwatch/stopwatch/stopwatch.html",
+		"/C/Users/Jon/Desktop/cwru/11917 thursday/folder stopwatch/stopwatch/counter.html",
+		"/C/Users/Jon/Desktop/cwru/111117 saturday/Unsolved/Unsolved/index.html",
+		"/C/Users/Jon/Desktop/cwru/11917 thursday/folder stopwatch/files sorting.html",
+		"/C/Users/Jon/Desktop/cwru/11917 thursday/folder stopwatch/stopwatch/stopwatch.js",
+		"/C/Users/Jon/Desktop/cwru/11917 thursday/printing numbers.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 128.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 70.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 180.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-workspace",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
